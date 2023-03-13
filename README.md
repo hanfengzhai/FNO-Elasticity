@@ -12,7 +12,7 @@ If this work inspired your research, or helped you with your code, please cite
 @misc{hanfengzhai_FNO-Elasticity,
   author = {Zhai, Hanfeng},
   title = {FNO-Elasticity: Fourier Neural Operator Learning of Elasticity},
-  year = {2021},
+  year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/hanfengzhai/FNO-Elasticity/}},
