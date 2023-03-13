@@ -10,7 +10,7 @@ If this work inspired your research, or helped you with your code, please cite
 
 ```
 @misc{hanfengzhai_FNO-Elasticity,
-  author = {Zhai, Hanfeng and others},
+  author = {Zhai, Hanfeng},
   title = {FNO-Elasticity: Fourier Neural Operator Learning of Elasticity},
   year = {2021},
   publisher = {GitHub},
