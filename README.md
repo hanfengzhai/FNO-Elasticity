@@ -6,7 +6,7 @@ This is a simple course project practice (from course [CEE6736](https://classes.
 
 ***
 
-If this work inspired your research, or helped you with your code, please cite
+### Citation
 
 ```
 @misc{hanfengzhai_FNO-Elasticity,
